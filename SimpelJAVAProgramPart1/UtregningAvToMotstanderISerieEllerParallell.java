@@ -4,7 +4,7 @@ package gr02lab01;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Oppgave_3 {
+public class UtregningAvToMotstanderISerieEllerParallell {
 
     public static void main(String[] args) throws IOException {
         Scanner inn = new Scanner(System.in);
