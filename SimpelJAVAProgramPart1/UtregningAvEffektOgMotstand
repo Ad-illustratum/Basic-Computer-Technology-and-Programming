@@ -1,9 +1,9 @@
 
-package gr02lab01;
+package test;
 
 import java.util.Scanner;
 
-public class Oppgave_1 {
+public class UtregningAvEffektOgMotstand {
 
     public static void main(String[] args) {
         double u, i, r, p; //oppretter variabler
