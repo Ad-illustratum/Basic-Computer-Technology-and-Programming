@@ -1,7 +1,7 @@
 
-package gr02lab01;
+package test;
 
-public class Oppgave_2 {
+public class TilfeldigKortIEnKortstokk {
 
 
     public static void main(String[] args) {
