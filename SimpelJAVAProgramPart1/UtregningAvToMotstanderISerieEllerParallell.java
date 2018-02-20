@@ -1,5 +1,5 @@
 
-package gr02lab01;
+package test;
 
 import java.io.IOException;
 import java.util.Scanner;
