@@ -1,8 +1,8 @@
-package gr02lab02;
+package test;
 
 import java.util.Scanner;
 
-public class Oppgave1 {
+public class RombeMedSymboler {
 
     public static void main(String[] args) {
 
